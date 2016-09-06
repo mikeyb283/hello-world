@@ -1,3 +1,3 @@
 # hello-world
 
-Mike here, I am just starting to learn howo to write code.
+Mike here, I am just starting to learn how to write code.
